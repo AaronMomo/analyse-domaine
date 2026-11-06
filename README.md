@@ -63,4 +63,4 @@
 
 
 ![Mon interface OBS](obs.png)
-<img width="1919" height="1079" alt="obs" src="https://github.com/user-attachments/assets/addd9c71-937f-4a00-a8cd-220d6fffa2ca" />
+
