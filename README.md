@@ -45,7 +45,7 @@
 
 ![Sept24](./images/sept24.png)
 
-(source de l'image : ...)
+(source de l'image : [Source](https://sept24.com/))
 
 - Types de produits et de services : ...
 - Étapes de production : ...
