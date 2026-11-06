@@ -55,7 +55,7 @@
 ## Conclusion
 
 - Mon profil en une phrase : Je suis un créateur organisé qui veut concevoir des montages de vidéo
-- Ce qui m'a surpris : ...
+- Ce qui m'a surpris : Je suis surpris des plusieurs compétences que j'ai déjà en multimédia
 - Ma force principale et la faiblesse à travailler : Mon perfectionnisme et ma communication orale
 - Mon action d'ici la fin de la session : Compléter un tutoriel sur l'utilisation de After Effects
 
