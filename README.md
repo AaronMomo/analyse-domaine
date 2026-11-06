@@ -61,4 +61,5 @@
 
 ## Ma capsule
 
-![Mon interface OBS]()
+![Mon interface OBS](obs.png)
+<img width="1825" height="970" alt="image" src="https://github.com/user-attachments/assets/2ba16d1f-5ea3-4568-9035-4310a6f76096" />
