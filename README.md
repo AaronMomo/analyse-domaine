@@ -2,48 +2,48 @@
 
 ## Découverte de soi
 
-- Mes forces : ...
-    - Exemple : ...
-- Mes faiblesses ou points à améliorer : ...
-    - Exemple : ...
-- Seul(e) ou en équipe : ...
-    - Pourquoi et exemple : ...
-- Plutôt technique ou créatif : ...
+- Mes forces : créativité, adaptabilité, débrouillard, perfectionniste
+    - Exemple : autoportraits illustration numérique
+- Mes faiblesses ou points à améliorer : communication, patience, confiance
+    - Exemple : parler devant la classe
+- Seul(e) ou en équipe : équipe
+    - Pourquoi et exemple : J'aime parler avec mes coéquipiers pendant le travail. Exemple: Aide collaboratif en photographie
+- Plutôt technique ou créatif : créatif
 
 ## Exploration des domaines
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | ... | ... |
-| Vidéo et animation 2D | ... | ... |
-| 3D | ... | ... |
-| Web | ... | ... |
-| Jeux vidéo | ... | ... |
-| Développement logiciel | ... | ... |
-| Installations et expériences immersives | ... | ... |
+| Graphisme | fort | Je peux utiliser ma créativité en illustration et j'ai déjà des compétences en graphisme |
+| Vidéo et animation 2D | fort | Je peux créer des vidéos selon mes propres idées (créativité) et j'ai déja des compétences en montage de vidéo |
+| 3D | moyen | Je suis curieux de créer des modèles 3D mais je n'ai pas vraiment touché à des logiciels de 3D |
+| Web | faible | Je ne suis pas intéressé à créer des sites web |
+| Jeux vidéo | fort | J'adore les jeux vidéo et j'ai toujours voulu créer mon propre jeu |
+| Développement logiciel | moyen | Assez intéressant, mais ce n'est pas un domaine qui me passionne autant que les autres |
+| Installations et expériences immersives | moyen | Ce n'est pas vraiment quelque chose qui me passionne mais je trouve ca intéressant |
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : ...
+### Domaine 1 : Vidéo
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : J'ai appris comment utiliser des logiciels de montage de vidéo il y a longtemps et j'ai monté quelques vidéos pour un stage en soutien informatique
+- Logiciels et outils : Adobe Premiere Pro, Adobe After Effects, Adobe Media Encoder
+- Pourquoi il m'intéresse : J'ai déjà monté plusieurs vidéos quand j'étais jeune et j'adore utiliser mes propres idées comme inspiration dans ces vidéos
+- Travailler dans ce domaine : Je me vois travailler dans ce domaine, car c'est le domaine qui me passionne le plus et j'aimerais utiliser mes compétences dans le marché du travail.
 
-### Domaine 2 : ...
+### Domaine 2 : Illustration numérique
 
-- Expérience : ...
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Expérience : J'ai déjà de l'expérience en illustration. J'ai appris quelques logiciels de graphisme auparavant quand j'étais jeune et dans mon ancien DEP en soutien informatique.
+- Logiciels et outils : Adobe Illustrator, Adobe Photoshop
+- Pourquoi il m'intéresse : J'ai déja créé plusieurs oeuvres auparavant, même durant cette session. J'adore utiliser ma créativité et mes idées pour ces projets.
+- Travailler dans ce domaine : Malgré mes compétences et mes intérêts dans ce domaine, je me vois plus comme monteur de vidéo, donc je ne me vois pas travailler dans ce domaine.
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Studios de création audiovisuel, studios de développement, agences de marketing.
+- Exemple d'entreprise : Sept24
 
-![Nom de l'entreprise](entreprise.jpg)
+![Sept24](entreprise.jpg)
 
 (source de l'image : ...)
 
