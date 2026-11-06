@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de création audiovisuel, studios de développement, agences de marketing.
 - Exemple d'entreprise : Sept24
 
-![Sept24](entreprise.jpg)
+![Sept24](sept24.png)
 
 (source de l'image : ...)
 
